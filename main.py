@@ -44,7 +44,7 @@ GREEN = (46, 125, 50)
 TAN = (210, 180, 140)
 DARK = (16, 24, 48)
 
-# Generated bitmap-font data (build time, PIL + DejaVu).
+# Generated bitmap-font data (build time, DejaVu rasterizer).
 # Each blob: per glyph, struct '>HHbbH' (w, h, dx, dy, advance)
 # followed by w*h grayscale coverage bytes. Chars are in FONT_CHARS order.
 FONT_CHARS = {}
